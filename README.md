@@ -1,2 +1,2 @@
 # passenger-counter
-HTML,CSS,JavaScript
+Basic HTML,CSS,JavaScript Exercise
